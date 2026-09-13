@@ -18,7 +18,7 @@
 
 Sto chiudendo la magistrale in Ingegneria Informatica a Roma Tre, curriculum Sistemi Informatici Complessi.
 
-Mi interessa il sistema per intero: la pipeline che elabora i dati, il servizio che li espone, la macchina su cui gira e il backup che lo rimette in piedi quando si rompe. Lavoro su infrastruttura Linux, servizi containerizzati e modelli linguistici eseguiti in locale, e quello che costruisco lo tengo acceso abbastanza a lungo da vederlo rompersi — che è il momento in cui si impara qualcosa.
+Studio l'intera pila: la pipeline che elabora i dati, il servizio che li espone, la macchina su cui gira e il backup che lo rimette in piedi quando si rompe. Lavoro su infrastruttura Linux, servizi containerizzati e modelli linguistici eseguiti in locale — Imparando la maggior parte delle volte dagli errori commessi e dai casi di rottura dei servizi.
 
 <br>
 
