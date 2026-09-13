@@ -29,11 +29,16 @@ Studio l'intera pila: la pipeline che elabora i dati, il servizio che li espone,
 </picture>
 
 <p align="center">
+  <a href="https://github.com/MatteoTomassetti25/anton-ocr">anton-ocr</a> &nbsp;·&nbsp;
   <a href="https://github.com/MatteoTomassetti25/HealthPulse-AI2B">HealthPulse-AI2B</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MatteoTomassetti25/drinkntfy">drinkntfy</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MatteoTomassetti25/macpi">macpi</a> &nbsp;·&nbsp;
   <a href="https://github.com/MatteoTomassetti25/edu-dashboard">edu-dashboard</a> &nbsp;·&nbsp;
-  <a href="https://github.com/MatteoTomassetti25/labGenerator">labGenerator</a> &nbsp;·&nbsp;
-  <a href="https://github.com/MatteoTomassetti25/SistemaQuizMatteo">SistemaQuizMatteo</a> &nbsp;·&nbsp;
-  <a href="https://github.com/MatteoTomassetti25/KatharaLab">KatharaLab</a>
+  <a href="https://github.com/MatteoTomassetti25/labGenerator">labGenerator</a>
+</p>
+
+<p align="center">
+  <sub>Sono progetti allo stato embrionale: girano, ma sono ancora da finire e cambiano spesso.</sub>
 </p>
 
 <br>
