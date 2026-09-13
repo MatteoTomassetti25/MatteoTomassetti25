@@ -62,31 +62,26 @@ Mi interessa il sistema per intero: la pipeline che elabora i dati, il servizio 
 | Progetto | Cos'è | Stack |
 | :--- | :--- | :--- |
 | **[HealthPulse-AI2B](https://github.com/MatteoTomassetti25/HealthPulse-AI2B)** | Triage per l'emergenza sanitaria del Lazio su open data regionali. Stima dove conviene andare tenendo conto dell'effetto gregge. **3° posto** al Campionato Universitario AI2B, tappa di Roma. | Python · FastAPI · React · OSM · LLM |
-| **[edu-dashboard](https://github.com/MatteoTomassetti25/edu-dashboard)** | Dashboard accademica self-hosted: voti, media ponderata, proiezione del voto di laurea. | HTML · JS |
+| **[edu-dashboard](https://github.com/MatteoTomassetti25/edu-dashboard)** | Dashboard accademica self-hosted: voti, media ponderata, proiezione del voto di laurea. | Python · Docker · JS |
 | **[labGenerator](https://github.com/MatteoTomassetti25/labGenerator)** | Generatore di laboratori di rete per il corso di Internet & Data Centers. Scrive la topologia Kathara al posto tuo. | Python |
 | **[SistemaQuizMatteo](https://github.com/MatteoTomassetti25/SistemaQuizMatteo)** | Piattaforma d'esame del corso di Programmazione Orientata agli Oggetti, sviluppata durante il tirocinio a Roma Tre. | Java |
 | **[KatharaLab](https://github.com/MatteoTomassetti25/KatharaLab)** | Laboratori di rete svolti: routing, BGP, data center. | Kathara · Linux netns |
 
 <br>
 
-## Attività
+## Home lab
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MatteoTomassetti25&show_icons=true&hide_border=true&bg_color=00000000&title_color=39a0ed&icon_color=39a0ed&text_color=8b949e&include_all_commits=true&hide=issues">
-    <img alt="Statistiche GitHub" src="https://github-readme-stats.vercel.app/api?username=MatteoTomassetti25&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=59636e&include_all_commits=true&hide=issues" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTomassetti25&layout=compact&hide_border=true&bg_color=00000000&title_color=39a0ed&text_color=8b949e&hide=html,css,tex&langs_count=8">
-    <img alt="Linguaggi più usati" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTomassetti25&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e&hide=html,css,tex&langs_count=8" height="165">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/homelab-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/homelab-light.svg">
+  <img alt="Home lab a tre nodi: server i7-9700K, Raspberry Pi 5, MacBook su rete mesh cifrata" src="assets/homelab-dark.svg" width="100%">
+</picture>
 
 <br>
 
 ## Studi
 
-**Laurea Magistrale in Ingegneria Informatica (LM-32)** — Roma Tre, curriculum Sistemi Informatici Complessi, in corso
+**Laurea Magistrale in Ingegneria Informatica (LM-32)** — Roma Tre, curriculum Sistemi Informatici Complessi, in corso<br>
 Machine learning e deep learning · reti e data center · architettura del software · sistemi operativi e programmazione di sistema in C · cybersecurity ed ethical hacking · GDPR e AI Act
 
 **Laurea in Ingegneria Informatica (L-8)** — Roma Tre, 2025
